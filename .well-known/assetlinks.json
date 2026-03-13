@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.cignahk.mycignahk",
+    "sha256_cert_fingerprints": [
+      "D2:30:B0:2F:E8:B7:1A:54:B9:F5:A6:18:02:9C:33:F7:E4:6C:EB:0E:A1:58:99:5F:64:85:C3:A4:D1:90:6E:25"
+    ]
+  }
+}]

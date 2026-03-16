@@ -1,11 +1,13 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.cignahk.mycignahk",
-    "sha256_cert_fingerprints": [
-      "D2:30:B0:2F:E8:B7:1A:54:B9:F5:A6:18:02:9C:33:F7:E4:6C:EB:0E:A1:58:99:5F:64:85:C3:A4:D1:90:6E:25"
-      "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
-    ]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.cignahk.mycignahk",
+      "sha256_cert_fingerprints": [
+        "D2:30:D0:2F:BE:C7:1A:BF:19:DA:58:A6:18:02:9C:F3:7F:D4:6C:DE:0E:A1:58:99:7F:64:85:C3:44:D1:90:6B:25",
+        "FA:C6:17:45:DC:09:03:78:6F:B9:ED:E6:2A:96:2B:39:9F:73:48:F0:BB:6F:89:9B:83:32:66:75:91:03:3B:9C"
+      ]
+    }
   }
-}]
+]
